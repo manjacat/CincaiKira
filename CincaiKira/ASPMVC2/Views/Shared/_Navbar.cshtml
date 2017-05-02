@@ -1,0 +1,38 @@
+﻿<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#navbarContent" aria-expanded="false">
+                <span class="sr-only">Toggle</span>
+                <span class="glyphicon glyphicon-th-list"></span>
+            </button>
+            <a class="navbar-brand" href="#">Kerel</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/Home/Index/1">Redirect</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                       role="button" aria-haspopup="true" aria-expanded="false">
+                        Dropdown <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            @Html.ActionLink("Visit Link1", "Index", "Home")
+                        </li>
+                        <li>
+                            @Html.ActionLink("Visit Link2", "Index", "Home")
+                        </li>
+                        <li>
+                            @Html.ActionLink("Visit Link3", "Index", "Home")
+                        </li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            @Html.ActionLink("Visit Link4", "Index", "Home")
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>

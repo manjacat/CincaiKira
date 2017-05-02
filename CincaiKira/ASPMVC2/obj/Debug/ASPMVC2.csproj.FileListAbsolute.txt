@@ -71,6 +71,6 @@ C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\bin\System.Web.Razor.
 C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\bin\System.Web.WebPages.xml
 C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\bin\System.Web.WebPages.Deployment.xml
 C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\bin\System.Web.WebPages.Razor.xml
-C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\obj\Debug\ASPMVC2.csprojResolveAssemblyReference.cache
 C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\obj\Debug\ASPMVC2.dll
 C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\obj\Debug\ASPMVC2.pdb
+C:\Users\cKerel\Source\Repos\CincaiKira\CincaiKira\ASPMVC2\obj\Debug\ASPMVC2.csprojResolveAssemblyReference.cache
